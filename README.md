@@ -1,5 +1,5 @@
 
-Используется
+BurgerApp
 =====================
 ### Create React App 
 * PropTypes 
