@@ -13,4 +13,4 @@
  Имеется страница выбора ингридиентов, страница отправки заказа и страница выполненных заказов.
  Заказы сохраняются в firebase.google.com
  
- ![Image alt](https://github.com/{EsKaRioT}/{ReactReduxBurgerApp}/raw/{master}/{/}/2018-02-01_182509.png)
+ ![Image alt](https://github.com/EsKaRioT/ReactReduxBurgerApp/raw/master/2018-02-01_182509.png)
