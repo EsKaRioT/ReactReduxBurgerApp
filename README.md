@@ -16,4 +16,5 @@
  ![Image alt](https://github.com/EsKaRioT/ReactReduxBurgerApp/raw/master/2018-02-01_182509.png)
  ![Image alt](https://github.com/EsKaRioT/ReactReduxBurgerApp/raw/master/2018-02-01_182557.png)
  ![Image alt](https://github.com/EsKaRioT/ReactReduxBurgerApp/raw/master/2018-02-01_182710.png)
+ ![Image alt](https://github.com/EsKaRioT/ReactReduxBurgerApp/raw/master/2018-02-01_184540.png)
 
